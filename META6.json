@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "A simple RDBMS to emulate Microsoft's Access RBBMS\n",
+  "license": "Artistic-2.0",
+  "name": "CarolynDB",
+  "perl": "6.d",
+  "provides": {
+    "CarolynDB": "lib/CarolynDB.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
