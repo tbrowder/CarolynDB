@@ -1,7 +1,9 @@
+[![Actions Status](https://github.com/tbrowder/CarolynDB/actions/workflows/linux.yml/badge.svg)](https://github.com/tbrowder/CarolynDB/actions) [![Actions Status](https://github.com/tbrowder/CarolynDB/actions/workflows/macos.yml/badge.svg)](https://github.com/tbrowder/CarolynDB/actions) [![Actions Status](https://github.com/tbrowder/CarolynDB/actions/workflows/windows.yml/badge.svg)](https://github.com/tbrowder/CarolynDB/actions)
+
 NAME
 ====
 
-**CarolynDB** - A simple RDBMS to emulate Microsoft's Access RBBMS
+**CarolynDB** - A simple RDBMS to emulate Microsoft's Access RDBMS
 
 SYNOPSIS
 ========
