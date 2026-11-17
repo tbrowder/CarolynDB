@@ -11,11 +11,6 @@ CarolynDB is Unicode-first. All interfaces use UTF-8.
 Environment
 -----------
 
-over
-====
-
-4
-
   * * CAROLYNDB_UNICODE=1 - enforce UTF-8 everywhere
 
   * * CAROLYNDB_FONT=noto - prefer Noto font stack
@@ -23,11 +18,6 @@ over
   * * CAROLYNDB_FONT_URL - optional webfont CSS URL
 
   * * CAROLYNDB_CSV_BOM=1 - prepend UTF-8 BOM for CSV export (Excel)
-
-back
-====
-
-
 
 INSTALLATION
 ============
